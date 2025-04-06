@@ -1,0 +1,7 @@
+use .env file to enter API token
+GOOGLE_API_KEY="API KEY"
+GEMINI_MODEL="DEFAULT MODEL NAME"
+
+
+Using Gemini Model for now as the API is freely availabe. 
+Later we will be changing to LLAMA model
